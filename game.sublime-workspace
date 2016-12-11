@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"animate",
+				".animate	animate"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"qq",
+				"qq-upload-button"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"jump",
+				"jump_count"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"spr",
+				"sprite_group_map"
+			],
+			[
+				"co",
+				"collided"
+			],
+			[
+				"sp",
+				"sprite_group_map"
+			],
+			[
+				"sprite",
+				"sprite_group_all"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"tile",
+				"tiledmap"
+			],
+			[
+				"frame",
+				"frame_duration"
+			],
+			[
+				"time_",
+				"time_diff"
+			],
+			[
+				"prod",
+				"product_fb"
+			],
+			[
+				"product_pa",
+				"product_parent_id"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"curre",
+				"currency"
+			],
+			[
+				"_SE",
+				"_SERVER"
+			],
+			[
+				"product",
+				"product_currency"
+			],
+			[
+				"curr",
+				"currB"
+			],
+			[
+				"amou",
+				"amountA"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"attr",
+				".attr	attr"
+			],
+			[
+				"css",
+				".css	css"
+			],
+			[
+				"a",
+				"addimg"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wall",
+				"wall_pos"
+			],
+			[
+				"get",
+				"get_offset"
+			],
+			[
+				"c",
+				"character"
+			],
+			[
+				"convert",
+				"convert_alpha"
+			],
+			[
+				"screen",
+				"screen_size"
+			],
+			[
+				"scree",
+				"screen_rect"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"sc",
+				"screen"
+			],
+			[
+				"blit",
+				"blit_pos"
+			],
+			[
+				"tr",
+				"try	Try/Except/Else"
+			],
+			[
+				"ca",
+				"category_menu"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ball",
+				"bally"
+			],
+			[
+				"in",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"each",
+				"$.each	$.each"
+			],
+			[
+				"read",
+				"ready	document ready - jQuery"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ex",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"hex viewer",
+				"Hex Viewer: Show Hex Edit Panel"
+			],
+			[
+				"hex",
+				"Hex Viewer: Show Hex Edit Panel"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: pf",
+				"Snippet: public_function"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"copy as",
+				"File: Copy Path as URI"
+			],
+			[
+				"sublimelint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"click",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jquerycli",
+				"Snippet: jQuery click handler"
+			],
+			[
+				"snippetjq",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 380.0,
+		"history":
+		[
+			"view.settings().get('theme')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Data/work/python/projects/game/__main__.py",
+		"/C/Users/lirfons/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/site/tasker.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/site/controller.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/site/controllers/property.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/site/controllers/tasker.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/script.php",
+		"/C/Data/work/web/dev/Joomla/Protect Imobil/com_tasker/imobil.xml",
+		"/C/Users/lirfons/Desktop/фыв.html",
+		"/C/Users/lirfons/Desktop/фыв",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/imobil.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/lirfons.svg",
+		"/C/Users/lirfons/Desktop/LIRFON'S/web/Eurostile webfont/stylesheet.css",
+		"/C/Users/lirfons/Desktop/LIRFON'S/web/Eurostile webfont/eurosti-demo.html",
+		"/C/Users/lirfons/Desktop/LIRFON'S/web/Eurostile webfont/eurosti-webfont.svg",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/templateDetails.xml",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/protv.html",
+		"/C/Users/lirfons/Desktop/protv_2",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/ps_checkout.php",
+		"/C/Users/lirfons/Desktop/webfontkit-20130116-153820/eurosti-webfont.ttf",
+		"/C/Data/work/video/Firstline/firstline.aep",
+		"/C/Users/lirfons/Desktop/flare - Copy.xml",
+		"/C/Users/lirfons/Desktop/flare - Copy.aep",
+		"/C/Users/lirfons/Desktop/flare.aep",
+		"/C/Users/lirfons/Desktop/Untitled Project.aep",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobsadd.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobs.php",
+		"/C/Users/lirfons/Desktop/flare_2_2.aep",
+		"/C/Users/lirfons/Desktop/flare_3.aep",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobsadmin.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/logo.html",
+		"/C/Users/lirfons/Desktop/logo.html",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/form.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/default.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/uploader.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/helper.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/form 2.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/view.html.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobs 5.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobsadd 2.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/main 2.js",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobs 3.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobs 4.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jobs 2.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/view.html 3.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/view.html 2.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/trash.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/print.php",
+		"/C/Users/lirfons/Desktop/asd.html",
+		"/C/Data/work/web/dev/Joomla/I Love Ugly/com_iluprod/admin/models/item.php",
+		"/C/Data/work/web/dev/Joomla/I Love Ugly/com_iluprod/admin/controllers/iluprod.php",
+		"/C/Data/work/web/dev/Joomla/Flagman/mod_fmupload/mod_fmupload.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/fileuploader.js",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/mod_fmupload.php",
+		"/C/Data/work/web/dev/Joomla/I Love Ugly/com_iluprod/admin/sql/install.sql",
+		"/C/Data/work/web/dev/Joomla/Flagman/mod_fmupload/fileuploader.css",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/fileuploader.css",
+		"/C/Data/work/web/dev/Joomla/Flagman/mod_fmupload/helper.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/fmupload.php",
+		"/C/Data/work/python/projects/game/gfx.py",
+		"/C/Data/work/web/heroku/lirfons-store/index.php",
+		"/C/Data/work/web/heroku/lirfons-tumblr/index.php",
+		"/C/Data/work/web/heroku/lirfons-diary/index.php",
+		"/C/Data/work/web/heroku/lirfons-mt/index.php",
+		"/C/Data/work/web/heroku/lirfons-store/.git/refs/heads/master",
+		"/C/Users/lirfons/stormy-taiga-9024/index.php",
+		"/C/Users/lirfons/stormy-taiga-9024/.git/index",
+		"/C/Users/lirfons/lirfons-store/index.php",
+		"/C/Users/lirfons/Desktop/store.html",
+		"/C/Users/lirfons/.ssh/known_hosts",
+		"/C/Users/lirfons/.ssh/id_rsa.pub",
+		"/C/Users/lirfons/.ssh/id_rsa",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/jquery.signaturepad.css",
+		"/C/Data/work/web/scripts/signature pad/examples/require-drawn-signature.html",
+		"/C/Data/work/python/projects/game/engine.py",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/controller.php",
+		"/C/Data/work/python/tutorials/pygame/jump.py",
+		"/C/Data/work/python/tutorials/pygame/tutorial_scroller.py",
+		"/C/Data/work/python/projects/game/character.py",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/house.html",
+		"/C/Data/work/web/Flash/Protect Imobil/Banners/ProTV/300x250/gifs/apt - Copy - Copy.html",
+		"/C/Data/work/web/Flash/Protect Imobil/Banners/ProTV/300x250/gifs/apt - Copy.html",
+		"/C/Data/work/web/Flash/Protect Imobil/Banners/ProTV/300x250/gifs/apt.html",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/apt.html",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/banner.html",
+		"/C/Users/lirfons/Desktop/Protect Imobil/banner/300x250/banner.html",
+		"/C/Users/lirfons/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Data/work/python/projects/game/pytmx/pytmx.py",
+		"/C/Data/work/python/projects/game/images/map.tmx",
+		"/C/Data/work/python/projects/game/pytmx/tmxloader.py",
+		"/C/Data/work/python/tutorials/pygame/jump 2.py",
+		"/C/Data/work/python/projects/game/commands.py",
+		"/C/Users/lirfons/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/lirfons/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/lirfons/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/pytmx/pytmx.py",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/test.py",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/formosa-xml.tmx",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/frnknstn.tmx",
+		"/C/Data/work/python/projects/game/test.py",
+		"/C/Data/work/python/tutorials/pyopengl/disruption.ca/example3/example3.py",
+		"/C/Data/work/python/tutorials/pyopengl/disruption.ca/example3/example3a.py",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/demo.py",
+		"/C/Data/work/python/projects/game/bak_gfx.py",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/desert.tmx",
+		"/C/Users/lirfons/Desktop/PyTMX-master/tests/16x16-overworld.tsx",
+		"/C/Data/work/python/projects/game/images/test.json",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/theme.js",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/flypage.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/browse_3.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/shop.browse.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/price.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/ps_product.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/shop.product_details.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/relatedProducts.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/productsnapshot.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/addtocart_form.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/ps_product_attribute.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/quantity_box_general.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/addtocart_drop.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/theme.css",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/addtocart_advanced_attribute.tpl.php",
+		"/C/Users/lirfons/AppData/Local/Temp/fz3temp-1/shop.waiting_list.tpl.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LIRFONS'S",
+			"LIRFON'S",
+			"imobil",
+			"г) ",
+			"в) ",
+			"б) ",
+			"а) ",
+			"а)",
+			"lirfons",
+			"eurosti-webfont",
+			"250",
+			"300",
+			"protv",
+			"protv2",
+			"http",
+			"dl",
+			"css",
+			"infinite",
+			"apply",
+			"dropbox",
+			"drop",
+			"apply",
+			"www.lirfons.com/images",
+			"weight",
+			"ro",
+			"swf",
+			"list",
+			"LIST",
+			"images",
+			"clearButton",
+			"job_files_current",
+			"fileUploader",
+			"job_files",
+			"100%",
+			"query",
+			"canvas",
+			"var",
+			"finishing",
+			"finishing_text",
+			"finishing_close",
+			"finishing",
+			"finishings",
+			"finishing",
+			"Finishing",
+			"finishing",
+			"machine",
+			"26",
+			"collision",
+			"on_ground",
+			"speed",
+			"self.character.update",
+			"character.collided",
+			"collided",
+			"vy",
+			"vx",
+			"vy",
+			"vx",
+			"collided",
+			"d_up",
+			"character.update",
+			"True",
+			"character.update",
+			"17",
+			"14",
+			"go_right",
+			"addTileLayer",
+			"tilelayers",
+			"TiledLayer",
+			"tilelayers",
+			"objectgroups",
+			"800",
+			"2",
+			"pos",
+			"render",
+			"all_sprites",
+			"sprite_group",
+			"getTileLayerByName",
+			"filename",
+			"allsprites",
+			"map",
+			"screen",
+			"map",
+			"character",
+			"map",
+			"show_price",
+			"price",
+			"first-child",
+			"addtocart_button",
+			"vmCartDetails",
+			"show_quantity_box",
+			"product_in_stock",
+			"onchange",
+			"notify",
+			"selectList",
+			"manufactuerer_logo",
+			"addImg",
+			"vmlistAdditionalImages",
+			"span",
+			" class=\"box\"",
+			"manufactuerer_logo",
+			"manufacturer_link",
+			"manufacturer",
+			"query",
+			"manufacturer",
+			"jos_vm",
+			" <>",
+			"left",
+			" pos[0]",
+			"pos[0]",
+			"collide",
+			"print",
+			"walls_xy",
+			"wall_count",
+			"dirty_rect",
+			"self.size",
+			"1000",
+			"rec_src",
+			"screen_rect",
+			"clip",
+			"screen_rect",
+			"()\n",
+			"scale",
+			"set_clip",
+			"scroll",
+			"rel",
+			"tiles",
+			"walls",
+			"run"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"www.lirfons.com/old/images",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 118.0
+	},
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gf",
+				"gfx.py"
+			],
+			[
+				"comm",
+				"commands.py"
+			],
+			[
+				"ba",
+				"graphics/background.py"
+			],
+			[
+				"gra",
+				"graphics/__init__.py"
+			],
+			[
+				"t",
+				"cmd/terminal.py"
+			],
+			[
+				"ter",
+				"cmd/terminal.py"
+			],
+			[
+				"css",
+				"admin/css/style.css"
+			],
+			[
+				"js",
+				"admin/scripts/main.js"
+			],
+			[
+				"",
+				"iluprod.xml"
+			],
+			[
+				"item",
+				"admin/models/item.php"
+			],
+			[
+				"test",
+				"/C/Users/lirfons/Desktop/test.js"
+			],
+			[
+				"trash",
+				"admin/views/list/tmpl/trash.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
